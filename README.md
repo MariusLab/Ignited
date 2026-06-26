@@ -13,3 +13,5 @@ Having said that, setting it all up and fixing all the bugs was a huge technical
 The game was meant to be a commercial release and I was planning to share it here once it was out, however I'm not sure about its future anymore. I ran into some serious issues during playtesting. Nothing to do with Jolt or online play. The issue is most players find the controls unintuitive and way too difficult. I improved them a lot based on feedback, but it's just not enough and I've lost faith. New players just bounce off the game as soon as they try to move. Feel free to request a playtest on Steam if you want to give the game a shot yourself. It should grant access instantly.
 
 I want to thank jrouwe for making this amazing library and giving it to us for free. It is an amazing piece of engineering. I've had to go through a lot of the source code to solve issues and the code is super clean and readable. Thank you!
+
+P.S. This repo is just the final commit of the real source code that I kept in a privately hosted Perforce repo.
